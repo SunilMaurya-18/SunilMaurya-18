@@ -1,545 +1,306 @@
+<!-- TODO (Sunil): replace both https://www.linkedin.com/ links below with your LinkedIn profile URL, e.g. https://www.linkedin.com/in/your-handle/ -->
+<!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 <div align="center">
 
-# SUNIL MAURYA
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=230&section=header&text=SUNIL%20MAURYA&fontSize=64&fontColor=E6E6FA&fontAlignY=36&desc=Java%20Backend%20Engineer%20%E2%80%A2%20Spring%20Boot%20%E2%80%A2%20Distributed%20Systems%20%E2%80%A2%20AI%20Engineering&descSize=16&descAlignY=58&animation=fadeIn" width="100%" alt="Sunil Maurya"/>
 
-### `Java Backend Engineer` · `Spring Boot` · `Distributed Systems` · `AI Engineering`
+<a href="https://github.com/SunilMaurya-18">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=620&lines=Java+Backend+Engineer;Spring+Boot+%E2%80%A2+Redis+%E2%80%A2+PostgreSQL;Building+production-grade+APIs;Exploring+AI+Engineering" alt="Typing SVG"/>
+</a>
 
 <br/>
 
-<a href="https://github.com/SunilMaurya-18">
-  <img src="https://img.shields.io/badge/GitHub-18181B?style=flat-square&logo=github&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=SunilMaurya-18&style=flat-square&color=18181B&label=PROFILE+VIEWS"/>
+<a href="https://sunilmaurya-livid.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-302B63?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://github.com/SunilMaurya-18"><img src="https://img.shields.io/badge/GitHub-0F0C29?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<img src="https://komarev.com/ghpvc/?username=SunilMaurya-18&style=for-the-badge&color=302B63&label=PROFILE+VIEWS" alt="Profile views"/>
 
 <br/><br/>
 
-> **Building reliable backend systems and exploring the intersection of software engineering and AI.**
+<em>Building reliable backend systems and exploring the intersection of software engineering and AI.</em>
+
+<sub>B.Tech CSE · PSIT Kanpur</sub>
 
 </div>
 
 <br/>
 
----
-
-# `01` — ENGINEERING PROFILE
+<!-- ═══════════════════════════ 01 PROFILE ═══════════════════════════ -->
+## `01` &nbsp;·&nbsp; Engineering Profile
 
 <table>
 <tr>
-<td width="60%" valign="top">
-
-### Backend Engineer
+<td width="58%" valign="top">
 
 I build **production-oriented backend systems** with a focus on clean architecture, secure APIs, data consistency, performance and scalability.
 
-My primary engineering ecosystem revolves around:
+**Core ecosystem**
 
-- **Java & Spring Boot**
-- **REST API architecture**
-- **Spring Security & JWT**
-- **PostgreSQL & JPA/Hibernate**
-- **Redis & distributed systems**
-- **Docker & containerized environments**
-- **Testing & observability**
+- ☕ **Java & Spring Boot** — REST API architecture
+- 🔐 **Spring Security & JWT** — authentication & authorization
+- 🗄️ **PostgreSQL & JPA/Hibernate** — persistence & transactions
+- ⚡ **Redis** — caching, streams, locks, rate limiting
+- 🐳 **Docker** — containerized environments
+- 🧪 **Testing & observability**
 
 Currently expanding deeper into **AI/ML and production AI systems**.
 
 </td>
+<td width="42%" valign="top">
 
-<td width="40%" valign="top">
-
-### Engineering Areas
+**Engineering Areas**
 
 ```text
-Backend       ████████████████████
-Spring        ████████████████████
-Databases     ██████████████████░░
-Security      █████████████████░░░
-Redis         ████████████████░░░░
-Docker        ███████████████░░░░░
-AI / ML       ████████████░░░░░░░░
-System Design ███████████░░░░░░░░░
+Backend        ██████████  
+Spring Boot    ██████████  
+Databases      █████████░  
+Security       ████████▌░  
+Redis          ████████░░  
+Docker         ███████▌░░  
+AI / ML        ██████░░░░  
+System Design  █████▌░░░░  
 ```
 
 </td>
 </tr>
 </table>
 
----
-
-# `02` — CURRENTLY FOCUSED ON
-
-<table>
-<tr>
-
-<td width="33%" valign="top">
-
-### ⚙️ Backend
-
-```text
-Java
-Spring Boot
-Spring Security
-REST APIs
-JWT
-JPA / Hibernate
-Validation
-Testing
-Exception Handling
-```
-
-</td>
-
-<td width="33%" valign="top">
-
-### 🗄️ Data & Systems
-
-```text
-PostgreSQL
-Redis
-Caching
-Transactions
-Redis Streams
-Distributed Locks
-Rate Limiting
-Performance
-System Design
-```
-
-</td>
-
-<td width="33%" valign="top">
-
-### 🧠 AI Engineering
-
-```text
-Generative AI
-LLMs
-RAG
-Embeddings
-Vector Search
-Multimodal AI
-AI APIs
-ML Fundamentals
-AI Observability
-```
-
-</td>
-
-</tr>
-</table>
-
----
-
-# `03` — TECHNOLOGY STACK
-
-<div align="center">
-
-### Languages
-
-<br/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="52"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="52"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="52"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="52"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="52"/>
-
-<br/><br/>
-
-`Java` · `JavaScript` · `Python` · `HTML5` · `CSS3`
-
-<br/><br/>
-
-### Backend
-
-<br/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="52"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" width="52"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="52"/>
-
-<br/><br/>
-
-`Spring Boot` · `Spring Security` · `JPA` · `Hibernate` · `REST APIs`
-
-<br/><br/>
-
-### Databases & Caching
-
-<br/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="52"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="52"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="52"/>
-
-<br/><br/>
-
-`PostgreSQL` · `MongoDB` · `Redis`
-
-<br/><br/>
-
-### DevOps & Tooling
-
-<br/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="52"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="52"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="52"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="52"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="52"/>
-
-<br/><br/>
-
-`Docker` · `Git` · `GitHub` · `GitHub Actions` · `Linux`
-
-<br/><br/>
-
-### AI / ML
-
-<br/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="52"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="52"/>
-
-<br/><br/>
-
-`LLMs` · `RAG` · `Embeddings` · `Vector Search` · `Multimodal AI`
-
-</div>
-
----
-
-# `04` — ENGINEERING ARCHITECTURE
-
-<div align="center">
-
-```text
-                         ┌──────────────────────┐
-                         │       CLIENT         │
-                         │  Web · Mobile · API  │
-                         └──────────┬───────────┘
-                                    │
-                                    ▼
-                         ┌──────────────────────┐
-                         │       REST API       │
-                         │     Spring Boot      │
-                         └──────────┬───────────┘
-                                    │
-                 ┌──────────────────┼──────────────────┐
-                 │                  │                  │
-                 ▼                  ▼                  ▼
-        ┌────────────────┐ ┌────────────────┐ ┌────────────────┐
-        │    SECURITY    │ │ BUSINESS LOGIC │ │  AI SERVICES   │
-        │ Spring Security│ │  Services      │ │ LLM / RAG / ML │
-        │      + JWT     │ │  Validation    │ │ Multimodal     │
-        └───────┬────────┘ └───────┬────────┘ └───────┬────────┘
-                │                  │                  │
-                └──────────────────┼──────────────────┘
-                                   │
-                    ┌──────────────┴──────────────┐
-                    │                             │
-                    ▼                             ▼
-          ┌──────────────────┐          ┌──────────────────┐
-          │    PostgreSQL    │          │      Redis       │
-          │ JPA / Hibernate  │          │ Cache / Streams  │
-          │ Persistent Data  │          │ Locks / Limits   │
-          └──────────────────┘          └──────────────────┘
-                                   │
-                                   ▼
-                         ┌──────────────────────┐
-                         │       Docker         │
-                         │   CI / Deployment    │
-                         └──────────────────────┘
-```
-
-</div>
-
----
-
-# `05` — SYSTEMS I'M EXPLORING
-
-<table>
-<tr>
-
-<td width="33%" valign="top">
-
-### Distributed Systems
-
-- Redis internals
-- Caching strategies
-- Distributed locking
-- Rate limiting
-- Pub/Sub
-- Redis Streams
-- Lua scripting
-- Transactions
-- Clustering
-- Performance testing
-
-</td>
-
-<td width="33%" valign="top">
-
-### AI Systems
-
-- LLM architecture
-- RAG pipelines
-- Embeddings
-- Vector databases
-- Multimodal AI
-- AI agents
-- Model evaluation
-- AI safety
-- AI observability
-- Production inference
-
-</td>
-
-<td width="33%" valign="top">
-
-### Production Engineering
-
-- System design
-- API security
-- CI/CD
-- Docker
-- Logging
-- Metrics
-- Monitoring
-- Testing
-- Performance
-- Scalability
-
-</td>
-
-</tr>
-</table>
-
----
-
-# `06` — LEARNING PATH
-
-<div align="center">
-
-```text
-JAVA
-  │
-  ▼
-SPRING BOOT
-  │
-  ▼
-REST API ENGINEERING
-  │
-  ▼
-SECURITY + JWT
-  │
-  ▼
-POSTGRESQL + HIBERNATE
-  │
-  ▼
-REDIS
-  │
-  ▼
-DOCKER
-  │
-  ▼
-DISTRIBUTED SYSTEMS
-  │
-  ▼
-SYSTEM DESIGN
-  │
-  ▼
-AI / ML
-  │
-  ▼
-PRODUCTION AI SYSTEMS
-```
-
-</div>
-
----
-
-# `07` — ENGINEERING PRINCIPLES
+<!-- ═══════════════════════════ 02 PROJECTS ═══════════════════════════ -->
+## `02` &nbsp;·&nbsp; Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**01 — Production First**
+### 🔍 SEOPulse
+**SEO audit platform** — audits websites and surfaces SEO issues through a Spring Boot backend and a React dashboard.
 
-Build systems that can move beyond a demo.
+`Java` `Spring Boot` `PostgreSQL` `JPA` `Docker` `React`
 
-**02 — Understand the Why**
-
-Don't use technology simply because it is popular.
-
-**03 — Keep Architecture Intentional**
-
-Every abstraction should solve a real problem.
-
-**04 — Security by Design**
-
-Authentication, authorization and validation belong in the architecture.
-
-**05 — Measure Performance**
-
-Performance should be measured rather than assumed.
+<a href="https://seopulse-fr.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-302B63?style=for-the-badge&logo=vercel&logoColor=white" alt="SEOPulse live demo"/></a>
 
 </td>
-
 <td width="50%" valign="top">
 
-**06 — Observable Systems**
+### 🌾 PrithviCore
+**Smart farming platform** — real-time farm insights with live updates and AI-assisted crop vision.
 
-Logs, metrics and traces help explain real systems.
+`Next.js` `React` `WebSockets` `AI Vision`
 
-**07 — Test the Important Things**
+<a href="https://prithvicore.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-302B63?style=for-the-badge&logo=vercel&logoColor=white" alt="PrithviCore live demo"/></a>
 
-Correctness should be verified before deployment.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-**08 — Learn Through Building**
+### 🛡️ Forged Media Detection
+**B.Tech project (completed)** — EfficientNet-B0 forgery detector plus an explicit-content classifier, with takedown deadlines, perceptual hashing and Ed25519-signed reports.
 
-The best way to understand systems is to build them.
+`Spring Boot` `Python Inference` `PostgreSQL` `Redis` `React`
 
-**09 — AI Needs Engineering**
+<img src="https://img.shields.io/badge/Status-Completed-24243E?style=for-the-badge" alt="Completed"/>
 
-AI applications require evaluation, monitoring and safety.
+</td>
+<td width="50%" valign="top">
 
-**10 — Keep Improving**
+### 🧑‍💻 Personal Portfolio
+**Developer portfolio** — projects, skills and contact in one place.
 
-Build → Measure → Learn → Improve.
+`Web` `Vercel`
+
+<a href="https://sunilmaurya-livid.vercel.app/"><img src="https://img.shields.io/badge/Visit_Portfolio-302B63?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 
 </td>
 </tr>
 </table>
 
----
+<!-- ═══════════════════════════ 03 FOCUS ═══════════════════════════ -->
+## `03` &nbsp;·&nbsp; Currently Focused On
 
-# `08` — GITHUB INTELLIGENCE
+<table>
+<tr>
+<td width="33%" valign="top" align="center">
 
-<div align="center">
+**⚙️ Backend**
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=SunilMaurya-18&show_icons=true&hide_border=true&theme=transparent&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&rank_icon=github"
-  width="48%"
-/>
+<sub>Java · Spring Boot · Spring Security · REST APIs · JWT · JPA / Hibernate · Validation · Testing · Exception Handling</sub>
 
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=SunilMaurya-18&hide_border=true&theme=transparent&background=00000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff"
-  width="48%"
-/>
+</td>
+<td width="33%" valign="top" align="center">
 
-</div>
+**🗄️ Data & Systems**
 
----
+<sub>PostgreSQL · Redis · Caching · Transactions · Redis Streams · Distributed Locks · Rate Limiting · Performance · System Design</sub>
 
-# `09` — CONTRIBUTION ACTIVITY
+</td>
+<td width="33%" valign="top" align="center">
 
-<div align="center">
+**🧠 AI Engineering**
 
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=SunilMaurya-18&bg_color=00000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true"
-  width="96%"
-/>
+<sub>Generative AI · LLMs · RAG · Embeddings · Vector Search · Multimodal AI · AI APIs · ML Fundamentals · AI Observability</sub>
 
-</div>
+</td>
+</tr>
+</table>
 
----
-
-# `10` — CONTRIBUTION SNAKE
+<!-- ═══════════════════════════ 04 STACK ═══════════════════════════ -->
+## `04` &nbsp;·&nbsp; Technology Stack
 
 <div align="center">
 
-<img
-  src="https://raw.githubusercontent.com/SunilMaurya-18/SunilMaurya-18/output/github-contribution-grid-snake.svg"
-  width="96%"
-/>
+<table>
+<tr><td align="center"><b>Languages</b></td><td align="center"><img src="https://skillicons.dev/icons?i=java,js,python,html,css&theme=dark" alt="Languages"/></td></tr>
+<tr><td align="center"><b>Backend</b></td><td align="center"><img src="https://skillicons.dev/icons?i=spring,hibernate&theme=dark" alt="Backend"/></td></tr>
+<tr><td align="center"><b>Data</b></td><td align="center"><img src="https://skillicons.dev/icons?i=postgres,mongodb,redis&theme=dark" alt="Data"/></td></tr>
+<tr><td align="center"><b>DevOps</b></td><td align="center"><img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,linux&theme=dark" alt="DevOps"/></td></tr>
+<tr><td align="center"><b>AI / ML</b></td><td align="center"><img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" alt="AI/ML"/></td></tr>
+</table>
+
+<sub>LLMs · RAG · Embeddings · Vector Search · Multimodal AI</sub>
 
 </div>
 
----
-
-# `11` — DEVELOPMENT PHILOSOPHY
+<!-- ═══════════════════════════ 05 ARCHITECTURE ═══════════════════════════ -->
+## `05` &nbsp;·&nbsp; How I Architect Backends
 
 <div align="center">
 
 ```text
-┌──────────────────────────────────────────────────────┐
-│                                                      │
-│                    BUILD                             │
-│                      ↓                               │
-│                   MEASURE                            │
-│                      ↓                               │
-│                    LEARN                             │
-│                      ↓                               │
-│                   IMPROVE                            │
-│                      ↓                               │
-│                    BUILD                             │
-│                                                      │
-└──────────────────────────────────────────────────────┘
+                    ┌──────────────────────┐
+                    │        CLIENT        │
+                    │  Web · Mobile · API  │
+                    └──────────┬───────────┘
+                               ▼
+                    ┌──────────────────────┐
+                    │  REST API · Spring   │
+                    │        Boot          │
+                    └──────────┬───────────┘
+          ┌────────────────────┼────────────────────┐
+          ▼                    ▼                    ▼
+ ┌─────────────────┐  ┌─────────────────┐  ┌─────────────────┐
+ │    SECURITY     │  │ BUSINESS LOGIC  │  │   AI SERVICES   │
+ │ Spring Security │  │    Services     │  │  LLM · RAG · ML │
+ │      + JWT      │  │   Validation    │  │   Multimodal    │
+ └────────┬────────┘  └────────┬────────┘  └────────┬────────┘
+          └────────────────────┼────────────────────┘
+                 ┌─────────────┴─────────────┐
+                 ▼                           ▼
+       ┌──────────────────┐        ┌──────────────────┐
+       │    PostgreSQL    │        │      Redis       │
+       │ JPA · Hibernate  │        │ Cache · Streams  │
+       │ Persistent Data  │        │ Locks · Limits   │
+       └────────┬─────────┘        └────────┬─────────┘
+                └─────────────┬─────────────┘
+                              ▼
+                    ┌──────────────────────┐
+                    │  Docker · CI / CD    │
+                    └──────────────────────┘
 ```
 
-### Build systems that are understandable.
-### Design systems that can evolve.
-### Learn from every failure.
-
 </div>
 
----
+<!-- ═══════════════════════════ 06 EXPLORING ═══════════════════════════ -->
+## `06` &nbsp;·&nbsp; Systems I'm Exploring
 
-# `12` — OPEN TO
+<details>
+<summary><b>Distributed Systems · AI Systems · Production Engineering</b> — click to expand</summary>
+<br/>
+
+| 🔀 Distributed Systems | 🤖 AI Systems | 🏭 Production Engineering |
+|:--|:--|:--|
+| Redis internals | LLM architecture | System design |
+| Caching strategies | RAG pipelines | API security |
+| Distributed locking | Embeddings | CI/CD |
+| Rate limiting | Vector databases | Docker |
+| Pub/Sub | Multimodal AI | Logging |
+| Redis Streams | AI agents | Metrics |
+| Lua scripting | Model evaluation | Monitoring |
+| Transactions | AI safety | Testing |
+| Clustering | AI observability | Performance |
+| Performance testing | Production inference | Scalability |
+
+</details>
+
+<details>
+<summary><b>Learning Path</b> — Java → Production AI Systems</summary>
+<br/>
 
 <div align="center">
 
-`Backend Engineering` · `Java` · `Spring Boot` · `Distributed Systems`
-
-`AI Engineering` · `Open Source` · `Technical Collaboration`
+`Java` → `Spring Boot` → `REST API Engineering` → `Security + JWT` → `PostgreSQL + Hibernate` → `Redis` → `Docker` → `Distributed Systems` → `System Design` → `AI / ML` → `Production AI Systems`
 
 </div>
 
----
+</details>
 
-# `13` — CONNECT
+<details>
+<summary><b>10 Engineering Principles</b></summary>
+<br/>
+
+| # | Principle | In practice |
+|:--:|:--|:--|
+| 01 | **Production First** | Build systems that can move beyond a demo. |
+| 02 | **Understand the Why** | Don't use technology simply because it is popular. |
+| 03 | **Intentional Architecture** | Every abstraction should solve a real problem. |
+| 04 | **Security by Design** | Authentication, authorization and validation belong in the architecture. |
+| 05 | **Measure Performance** | Performance should be measured rather than assumed. |
+| 06 | **Observable Systems** | Logs, metrics and traces help explain real systems. |
+| 07 | **Test the Important Things** | Correctness should be verified before deployment. |
+| 08 | **Learn Through Building** | The best way to understand systems is to build them. |
+| 09 | **AI Needs Engineering** | AI applications require evaluation, monitoring and safety. |
+| 10 | **Keep Improving** | Build → Measure → Learn → Improve. |
+
+</details>
+
+<!-- ═══════════════════════════ 07 STATS ═══════════════════════════ -->
+## `07` &nbsp;·&nbsp; GitHub Analytics
 
 <div align="center">
 
-<a href="https://github.com/SunilMaurya-18">
-<img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=SunilMaurya-18&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&bg_color=0F0C29" height="170" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunilMaurya-18&layout=compact&hide_border=true&theme=tokyonight&bg_color=0F0C29&langs_count=6" height="170" alt="Top languages"/>
 
-&nbsp;
+<img src="https://streak-stats.demolab.com/?user=SunilMaurya-18&hide_border=true&theme=tokyonight&background=0F0C29" height="170" alt="GitHub streak"/>
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<img src="https://ghchart.rshah.org/7C3AED/SunilMaurya-18" width="96%" alt="Contribution chart"/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SunilMaurya-18/SunilMaurya-18/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SunilMaurya-18/SunilMaurya-18/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/SunilMaurya-18/SunilMaurya-18/output/github-contribution-grid-snake-dark.svg" width="96%" alt="Contribution snake"/>
+</picture>
+
+</div>
+
+<!-- ═══════════════════════════ 08 PHILOSOPHY ═══════════════════════════ -->
+## `08` &nbsp;·&nbsp; Development Philosophy
+
+<div align="center">
+
+**`BUILD`** &nbsp;→&nbsp; **`MEASURE`** &nbsp;→&nbsp; **`LEARN`** &nbsp;→&nbsp; **`IMPROVE`** &nbsp;↺
+
+<sub>Build systems that are understandable · Design systems that can evolve · Learn from every failure</sub>
+
+</div>
+
+<!-- ═══════════════════════════ 09 OPEN TO / CONNECT ═══════════════════════════ -->
+## `09` &nbsp;·&nbsp; Open To & Connect
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Backend_Engineering-24243E?style=flat-square"/> <img src="https://img.shields.io/badge/Java-24243E?style=flat-square"/> <img src="https://img.shields.io/badge/Spring_Boot-24243E?style=flat-square"/> <img src="https://img.shields.io/badge/Distributed_Systems-24243E?style=flat-square"/> <img src="https://img.shields.io/badge/AI_Engineering-24243E?style=flat-square"/> <img src="https://img.shields.io/badge/Open_Source-24243E?style=flat-square"/> <img src="https://img.shields.io/badge/Internships_%26_Freelance-302B63?style=flat-square"/>
 
 <br/><br/>
 
-### `ENGINEER • BUILD • LEARN • REPEAT`
+<a href="https://sunilmaurya-livid.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-302B63?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://github.com/SunilMaurya-18"><img src="https://img.shields.io/badge/GitHub-0F0C29?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
-<br/>
+<br/><br/>
 
-<img
-src="https://capsule-render.vercel.app/api?type=waving&color=0:18181B,100:000000&height=110&section=footer"
-width="100%"
-/>
+<code>ENGINEER • BUILD • LEARN • REPEAT</code>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=120&section=footer" width="100%" alt="footer"/>
 
 </div>
