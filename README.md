@@ -153,40 +153,68 @@ System Design  █████▌░░░░
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,50:7C3AED,100:0F0C29&height=2&section=header" width="100%"/>
 
+<div align="center">
 
-<details open>
-<summary><b>Reference architecture</b></summary>
+<code>Client</code> &nbsp;➜&nbsp; <code>REST API</code> &nbsp;➜&nbsp; <code>Security</code> &nbsp;➜&nbsp; <code>Services · AI</code> &nbsp;➜&nbsp; <code>PostgreSQL · Redis</code> &nbsp;➜&nbsp; <code>Docker · CI/CD</code>
+
+</div>
+
+<table>
+<tr>
+<th align="center">Layer</th>
+<th align="left">Responsibility</th>
+<th align="left">Stack</th>
+</tr>
+<tr>
+<td align="center" width="12%"><img src="https://img.shields.io/badge/L1-7C3AED?style=for-the-badge" alt="Layer 1"/></td>
+<td width="44%"><b>Client</b><br/><sub>Web, mobile and API consumers talk to one consistent contract.</sub></td>
+<td width="44%"><img src="https://img.shields.io/badge/REST-24243E?style=flat-square&logo=openapiinitiative&logoColor=white" alt="REST"/> <img src="https://img.shields.io/badge/JSON-24243E?style=flat-square&logo=json&logoColor=white" alt="JSON"/> <img src="https://img.shields.io/badge/React-24243E?style=flat-square&logo=react&logoColor=white" alt="React"/></td>
+</tr>
+<tr>
+<td align="center" width="12%"><img src="https://img.shields.io/badge/L2-7C3AED?style=for-the-badge" alt="Layer 2"/></td>
+<td width="44%"><b>API Gateway</b><br/><sub>Spring Boot controllers, validation and centralized exception handling.</sub></td>
+<td width="44%"><img src="https://img.shields.io/badge/Spring_Boot-24243E?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot"/> <img src="https://img.shields.io/badge/Validation-24243E?style=flat-square" alt="Validation"/> <img src="https://img.shields.io/badge/OpenAPI-24243E?style=flat-square&logo=swagger&logoColor=white" alt="OpenAPI"/></td>
+</tr>
+<tr>
+<td align="center" width="12%"><img src="https://img.shields.io/badge/L3-7C3AED?style=for-the-badge" alt="Layer 3"/></td>
+<td width="44%"><b>Security</b><br/><sub>Stateless authentication and role-based authorization.</sub></td>
+<td width="44%"><img src="https://img.shields.io/badge/Spring_Security-24243E?style=flat-square&logo=springsecurity&logoColor=white" alt="Spring Security"/> <img src="https://img.shields.io/badge/JWT-24243E?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT"/></td>
+</tr>
+<tr>
+<td align="center" width="12%"><img src="https://img.shields.io/badge/L4-7C3AED?style=for-the-badge" alt="Layer 4"/></td>
+<td width="44%"><b>Services</b><br/><sub>Business logic, transactions and AI-powered features.</sub></td>
+<td width="44%"><img src="https://img.shields.io/badge/Java-24243E?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/> <img src="https://img.shields.io/badge/LLM_·_RAG-24243E?style=flat-square" alt="LLM · RAG"/> <img src="https://img.shields.io/badge/Python-24243E?style=flat-square&logo=python&logoColor=white" alt="Python"/></td>
+</tr>
+<tr>
+<td align="center" width="12%"><img src="https://img.shields.io/badge/L5-7C3AED?style=for-the-badge" alt="Layer 5"/></td>
+<td width="44%"><b>Data</b><br/><sub>Durable storage plus fast caching, streams, locks and rate limits.</sub></td>
+<td width="44%"><img src="https://img.shields.io/badge/PostgreSQL-24243E?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/> <img src="https://img.shields.io/badge/Hibernate-24243E?style=flat-square&logo=hibernate&logoColor=white" alt="Hibernate"/> <img src="https://img.shields.io/badge/Redis-24243E?style=flat-square&logo=redis&logoColor=white" alt="Redis"/></td>
+</tr>
+<tr>
+<td align="center" width="12%"><img src="https://img.shields.io/badge/L6-7C3AED?style=for-the-badge" alt="Layer 6"/></td>
+<td width="44%"><b>Delivery</b><br/><sub>Containerized builds shipped through automated pipelines.</sub></td>
+<td width="44%"><img src="https://img.shields.io/badge/Docker-24243E?style=flat-square&logo=docker&logoColor=white" alt="Docker"/> <img src="https://img.shields.io/badge/GitHub_Actions-24243E?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions"/> <img src="https://img.shields.io/badge/Linux-24243E?style=flat-square&logo=linux&logoColor=white" alt="Linux"/></td>
+</tr>
+</table>
+
+<details>
+<summary><b>Request flow diagram</b></summary>
+<br/>
 
 ```text
-                    ┌──────────────────────┐
-                    │        CLIENT        │
-                    │  Web · Mobile · API  │
-                    └──────────┬───────────┘
-                               ▼
-                    ┌──────────────────────┐
-                    │ REST API · Spring    │
-                    │        Boot          │
-                    └──────────┬───────────┘
-          ┌────────────────────┼────────────────────┐
-          ▼                    ▼                    ▼
- ┌─────────────────┐  ┌─────────────────┐  ┌─────────────────┐
- │    SECURITY     │  │ BUSINESS LOGIC  │  │   AI SERVICES   │
- │ Spring Security │  │    Services     │  │  LLM · RAG · ML │
- │      + JWT      │  │   Validation    │  │   Multimodal    │
- └────────┬────────┘  └────────┬────────┘  └────────┬────────┘
-          └────────────────────┼────────────────────┘
-                 ┌─────────────┴─────────────┐
-                 ▼                           ▼
-       ┌──────────────────┐        ┌──────────────────┐
-       │    PostgreSQL    │        │      Redis       │
-       │ JPA · Hibernate  │        │ Cache · Streams  │
-       │ Persistent Data  │        │ Locks · Limits   │
-       └────────┬─────────┘        └────────┬─────────┘
-                └─────────────┬─────────────┘
-                              ▼
-                    ┌──────────────────────┐
-                    │   Docker · CI / CD   │
-                    └──────────────────────┘
+  Client ──▶ REST API (Spring Boot) ──▶ Spring Security + JWT
+                                              │
+                    ┌─────────────────────────┼─────────────────────────┐
+                    ▼                         ▼                         ▼
+             Business Logic             Validation               AI Services
+             (Services)                 (Bean Validation)        (LLM · RAG · ML)
+                    └─────────────────────────┬─────────────────────────┘
+                              ┌───────────────┴───────────────┐
+                              ▼                               ▼
+                    PostgreSQL (JPA/Hibernate)        Redis (cache · streams · locks)
+                              └───────────────┬───────────────┘
+                                              ▼
+                                  Docker  ──▶  CI/CD pipeline
 ```
 
 </details>
@@ -245,22 +273,25 @@ System Design  █████▌░░░░
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,50:7C3AED,100:0F0C29&height=2&section=header" width="100%"/>
 
+<table>
+<tr>
+<td width="50%" align="center" valign="middle"><img src="https://github-readme-stats.vercel.app/api?username=SunilMaurya-18&show_icons=true&rank_icon=github&card_width=450&hide_border=true&theme=tokyonight&bg_color=0F0C29" width="100%" alt="GitHub stats"/></td>
+<td width="50%" align="center" valign="middle"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunilMaurya-18&layout=compact&langs_count=8&card_width=450&hide_border=true&theme=tokyonight&bg_color=0F0C29" width="100%" alt="Top languages"/></td>
+</tr>
+<tr>
+<td colspan="2" align="center"><img src="https://streak-stats.demolab.com/?user=SunilMaurya-18&hide_border=true&theme=tokyonight&background=0F0C29" width="70%" alt="GitHub streak"/></td>
+</tr>
+<tr>
+<td colspan="2" align="center"><sub><b>CONTRIBUTIONS · LAST 12 MONTHS</b></sub><br/><br/><img src="https://ghchart.rshah.org/7C3AED/SunilMaurya-18" width="100%" alt="Contribution chart"/></td>
+</tr>
+</table>
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=SunilMaurya-18&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&bg_color=0F0C29" height="165" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunilMaurya-18&layout=compact&hide_border=true&theme=tokyonight&bg_color=0F0C29&langs_count=6" height="165" alt="Top languages"/>
-
-<img src="https://streak-stats.demolab.com/?user=SunilMaurya-18&hide_border=true&theme=tokyonight&background=0F0C29" height="165" alt="GitHub streak"/>
-
-<img src="https://github-trophies.vercel.app/?username=SunilMaurya-18&theme=tokyonight&no-frame=true&no-bg=true&column=8&margin-w=6&rank=SECRET,S,AAA,AA,A,B,C" width="96%" alt="GitHub trophies"/>
-
-<img src="https://ghchart.rshah.org/7C3AED/SunilMaurya-18" width="96%" alt="Contribution chart"/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SunilMaurya-18/SunilMaurya-18/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SunilMaurya-18/SunilMaurya-18/output/github-contribution-grid-snake.svg"/>
-  <img src="https://raw.githubusercontent.com/SunilMaurya-18/SunilMaurya-18/output/github-contribution-grid-snake-dark.svg" width="96%" alt="Contribution snake"/>
+  <img src="https://raw.githubusercontent.com/SunilMaurya-18/SunilMaurya-18/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake"/>
 </picture>
 
 </div>
@@ -285,4 +316,3 @@ System Design  █████▌░░░░
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:302B63,100:0F0C29&height=130&section=footer" width="100%" alt="footer"/>
 
 </div>
-
