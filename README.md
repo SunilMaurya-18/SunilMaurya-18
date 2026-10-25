@@ -1,170 +1,161 @@
-<!-- TODO (Sunil): replace both https://www.linkedin.com/ links below with your LinkedIn profile URL, e.g. https://www.linkedin.com/in/your-handle/ -->
-<!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=230&section=header&text=SUNIL%20MAURYA&fontSize=64&fontColor=E6E6FA&fontAlignY=36&desc=Java%20Backend%20Engineer%20%E2%80%A2%20Spring%20Boot%20%E2%80%A2%20Distributed%20Systems%20%E2%80%A2%20AI%20Engineering&descSize=16&descAlignY=58&animation=fadeIn" width="100%" alt="Sunil Maurya"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:7C3AED&height=260&section=header&text=Sunil%20Maurya&fontSize=72&fontColor=F5F3FF&fontAlignY=38&desc=Java%20Backend%20Engineer%20%C2%B7%20Spring%20Boot%20%C2%B7%20Distributed%20Systems%20%C2%B7%20AI&descSize=17&descAlignY=60&animation=fadeIn" width="100%" alt="Sunil Maurya"/>
 
-<a href="https://github.com/SunilMaurya-18">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=620&lines=Java+Backend+Engineer;Spring+Boot+%E2%80%A2+Redis+%E2%80%A2+PostgreSQL;Building+production-grade+APIs;Exploring+AI+Engineering" alt="Typing SVG"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=2800&pause=800&color=A78BFA&center=true&vCenter=true&width=640&height=40&lines=Java+Backend+Engineer;Spring+Boot+%C2%B7+Redis+%C2%B7+PostgreSQL;Building+production-grade+APIs;Exploring+AI+Engineering" alt="Typing SVG"/>
 
 <br/>
 
-<a href="https://sunilmaurya-livid.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-302B63?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-<a href="https://github.com/SunilMaurya-18"><img src="https://img.shields.io/badge/GitHub-0F0C29?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<img src="https://komarev.com/ghpvc/?username=SunilMaurya-18&style=for-the-badge&color=302B63&label=PROFILE+VIEWS" alt="Profile views"/>
+<a href="https://sunilmaurya-livid.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-302B63?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a> <a href="https://github.com/SunilMaurya-18"><img src="https://img.shields.io/badge/GitHub-0F0C29?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a> <a href="https://www.linkedin.com/in/sunil-maurya77"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B" alt="LinkedIn"/></a> <img src="https://komarev.com/ghpvc/?username=SunilMaurya-18&style=for-the-badge&color=302B63&label=PROFILE+VIEWS" alt="Profile views"/>
 
-<br/><br/>
+<br/>
 
 <em>Building reliable backend systems and exploring the intersection of software engineering and AI.</em>
-
-<sub>B.Tech CSE · PSIT Kanpur</sub>
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════ 01 PROFILE ═══════════════════════════ -->
-## `01` &nbsp;·&nbsp; Engineering Profile
+<h2 align="left">👨‍💻 &nbsp;About Me <sub><code>01</code></sub></h2>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,50:7C3AED,100:0F0C29&height=2&section=header" width="100%"/>
+
+
+```java
+public class SunilMaurya {
+
+    String role                = "Java Backend Engineer";
+    String education           = "B.Tech CSE @ PSIT Kanpur (2025–2029)";
+
+    String[] stack             = { "Java", "Spring Boot", "Spring Security + JWT",
+                                   "PostgreSQL", "JPA / Hibernate", "Redis", "Docker" };
+
+    String[] currentlyBuilding = { "Production-grade REST APIs",
+                                   "Redis-backed distributed patterns",
+                                   "AI-powered backend services" };
+
+    String[] openTo            = { "Backend Internships", "Freelance Projects",
+                                   "Open Source", "AI Engineering" };
+}
+```
 
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="55%" valign="top">
 
-I build **production-oriented backend systems** with a focus on clean architecture, secure APIs, data consistency, performance and scalability.
+**What I focus on**
 
-**Core ecosystem**
-
-- ☕ **Java & Spring Boot** — REST API architecture
-- 🔐 **Spring Security & JWT** — authentication & authorization
-- 🗄️ **PostgreSQL & JPA/Hibernate** — persistence & transactions
+- ☕ **Java & Spring Boot** — clean REST API architecture
+- 🔐 **Spring Security & JWT** — auth by design
+- 🗄️ **PostgreSQL & JPA/Hibernate** — consistent data
 - ⚡ **Redis** — caching, streams, locks, rate limiting
-- 🐳 **Docker** — containerized environments
-- 🧪 **Testing & observability**
-
-Currently expanding deeper into **AI/ML and production AI systems**.
+- 🐳 **Docker** — containerized delivery
+- 🧠 **AI/ML** — LLMs, RAG, production AI systems
 
 </td>
-<td width="42%" valign="top">
+<td width="45%" valign="top">
 
 **Engineering Areas**
 
 ```text
-Backend        ██████████  
-Spring Boot    ██████████  
-Databases      █████████░  
-Security       ████████▌░  
-Redis          ████████░░  
-Docker         ███████▌░░  
-AI / ML        ██████░░░░  
-System Design  █████▌░░░░  
+Backend        ██████████
+Spring Boot    ██████████
+Databases      █████████░
+Security       ████████▌░
+Redis          ████████░░
+Docker         ███████▌░░
+AI / ML        ██████░░░░
+System Design  █████▌░░░░
 ```
 
 </td>
 </tr>
 </table>
 
-<!-- ═══════════════════════════ 02 PROJECTS ═══════════════════════════ -->
-## `02` &nbsp;·&nbsp; Featured Projects
+<br/>
+
+<h2 align="left">🚀 &nbsp;Featured Projects <sub><code>02</code></sub></h2>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,50:7C3AED,100:0F0C29&height=2&section=header" width="100%"/>
+
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🔍 SEOPulse
-**SEO audit platform** — audits websites and surfaces SEO issues through a Spring Boot backend and a React dashboard.
+<h3>🔍&nbsp; SEOPulse</h3>
 
-`Java` `Spring Boot` `PostgreSQL` `JPA` `Docker` `React`
+<sub>SEO audit platform — scans websites and turns SEO issues into an actionable report dashboard.</sub>
 
-<a href="https://seopulse-fr.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-302B63?style=for-the-badge&logo=vercel&logoColor=white" alt="SEOPulse live demo"/></a>
+<img src="https://img.shields.io/badge/Java-24243E?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/> <img src="https://img.shields.io/badge/Spring_Boot-24243E?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot"/> <img src="https://img.shields.io/badge/PostgreSQL-24243E?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/> <img src="https://img.shields.io/badge/JPA-24243E?style=flat-square&logo=hibernate&logoColor=white" alt="JPA"/> <img src="https://img.shields.io/badge/Docker-24243E?style=flat-square&logo=docker&logoColor=white" alt="Docker"/> <img src="https://img.shields.io/badge/React-24243E?style=flat-square&logo=react&logoColor=white" alt="React"/>
+
+<a href="https://seopulse-fr.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-302B63?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/></a>
 
 </td>
 <td width="50%" valign="top">
 
-### 🌾 PrithviCore
-**Smart farming platform** — real-time farm insights with live updates and AI-assisted crop vision.
+<h3>🌾&nbsp; PrithviCore</h3>
 
-`Next.js` `React` `WebSockets` `AI Vision`
+<sub>Smart farming platform — real-time farm insights with live updates and AI-assisted crop vision.</sub>
 
-<a href="https://prithvicore.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-302B63?style=for-the-badge&logo=vercel&logoColor=white" alt="PrithviCore live demo"/></a>
+<img src="https://img.shields.io/badge/Next.js-24243E?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/> <img src="https://img.shields.io/badge/React-24243E?style=flat-square&logo=react&logoColor=white" alt="React"/> <img src="https://img.shields.io/badge/WebSockets-24243E?style=flat-square&logo=socketdotio&logoColor=white" alt="WebSockets"/> <img src="https://img.shields.io/badge/AI_Vision-24243E?style=flat-square&logo=opencv&logoColor=white" alt="AI Vision"/>
+
+<a href="https://prithvicore.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-302B63?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/></a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ Forged Media Detection
-**B.Tech project (completed)** — EfficientNet-B0 forgery detector plus an explicit-content classifier, with takedown deadlines, perceptual hashing and Ed25519-signed reports.
+<h3>🛡️&nbsp; Forged Media Detection</h3>
 
-`Spring Boot` `Python Inference` `PostgreSQL` `Redis` `React`
+<sub>B.Tech project — EfficientNet-B0 forgery detection + explicit-content classifier, takedown deadlines, perceptual hashing and Ed25519-signed reports.</sub>
 
-<img src="https://img.shields.io/badge/Status-Completed-24243E?style=for-the-badge" alt="Completed"/>
+<img src="https://img.shields.io/badge/Spring_Boot-24243E?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot"/> <img src="https://img.shields.io/badge/Python-24243E?style=flat-square&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/PostgreSQL-24243E?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/> <img src="https://img.shields.io/badge/Redis-24243E?style=flat-square&logo=redis&logoColor=white" alt="Redis"/> <img src="https://img.shields.io/badge/React-24243E?style=flat-square&logo=react&logoColor=white" alt="React"/>
+
+<img src="https://img.shields.io/badge/Completed-24243E?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Completed"/>
 
 </td>
 <td width="50%" valign="top">
 
-### 🧑‍💻 Personal Portfolio
-**Developer portfolio** — projects, skills and contact in one place.
+<h3>🧑‍💻&nbsp; Personal Portfolio</h3>
 
-`Web` `Vercel`
+<sub>Developer portfolio — projects, skills and contact details in one place.</sub>
 
-<a href="https://sunilmaurya-livid.vercel.app/"><img src="https://img.shields.io/badge/Visit_Portfolio-302B63?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<img src="https://img.shields.io/badge/Web-24243E?style=flat-square" alt="Web"/> <img src="https://img.shields.io/badge/Vercel-24243E?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
 
-</td>
-</tr>
-</table>
-
-<!-- ═══════════════════════════ 03 FOCUS ═══════════════════════════ -->
-## `03` &nbsp;·&nbsp; Currently Focused On
-
-<table>
-<tr>
-<td width="33%" valign="top" align="center">
-
-**⚙️ Backend**
-
-<sub>Java · Spring Boot · Spring Security · REST APIs · JWT · JPA / Hibernate · Validation · Testing · Exception Handling</sub>
-
-</td>
-<td width="33%" valign="top" align="center">
-
-**🗄️ Data & Systems**
-
-<sub>PostgreSQL · Redis · Caching · Transactions · Redis Streams · Distributed Locks · Rate Limiting · Performance · System Design</sub>
-
-</td>
-<td width="33%" valign="top" align="center">
-
-**🧠 AI Engineering**
-
-<sub>Generative AI · LLMs · RAG · Embeddings · Vector Search · Multimodal AI · AI APIs · ML Fundamentals · AI Observability</sub>
+<a href="https://sunilmaurya-livid.vercel.app/"><img src="https://img.shields.io/badge/Visit_Portfolio-302B63?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit Portfolio"/></a>
 
 </td>
 </tr>
 </table>
 
-<!-- ═══════════════════════════ 04 STACK ═══════════════════════════ -->
-## `04` &nbsp;·&nbsp; Technology Stack
+<br/>
+
+<h2 align="left">🛠️ &nbsp;Tech Stack <sub><code>03</code></sub></h2>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,50:7C3AED,100:0F0C29&height=2&section=header" width="100%"/>
+
 
 <div align="center">
 
-<table>
-<tr><td align="center"><b>Languages</b></td><td align="center"><img src="https://skillicons.dev/icons?i=java,js,python,html,css&theme=dark" alt="Languages"/></td></tr>
-<tr><td align="center"><b>Backend</b></td><td align="center"><img src="https://skillicons.dev/icons?i=spring,hibernate&theme=dark" alt="Backend"/></td></tr>
-<tr><td align="center"><b>Data</b></td><td align="center"><img src="https://skillicons.dev/icons?i=postgres,mongodb,redis&theme=dark" alt="Data"/></td></tr>
-<tr><td align="center"><b>DevOps</b></td><td align="center"><img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,linux&theme=dark" alt="DevOps"/></td></tr>
-<tr><td align="center"><b>AI / ML</b></td><td align="center"><img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" alt="AI/ML"/></td></tr>
-</table>
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,postgres,redis,mongodb,docker&theme=dark&perline=7" alt="Backend stack"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=js,python,html,css,git,github,githubactions,linux,pytorch,tensorflow&theme=dark&perline=10" alt="Languages and tooling"/>
 
-<sub>LLMs · RAG · Embeddings · Vector Search · Multimodal AI</sub>
+<sub><b>AI</b> · LLMs · RAG · Embeddings · Vector Search · Multimodal AI</sub>
 
 </div>
 
-<!-- ═══════════════════════════ 05 ARCHITECTURE ═══════════════════════════ -->
-## `05` &nbsp;·&nbsp; How I Architect Backends
+<br/>
 
-<div align="center">
+<h2 align="left">🏗️ &nbsp;How I Architect Backends <sub><code>04</code></sub></h2>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,50:7C3AED,100:0F0C29&height=2&section=header" width="100%"/>
+
+
+<details open>
+<summary><b>Reference architecture</b></summary>
 
 ```text
                     ┌──────────────────────┐
@@ -173,7 +164,7 @@ System Design  █████▌░░░░
                     └──────────┬───────────┘
                                ▼
                     ┌──────────────────────┐
-                    │  REST API · Spring   │
+                    │ REST API · Spring    │
                     │        Boot          │
                     └──────────┬───────────┘
           ┌────────────────────┼────────────────────┐
@@ -194,17 +185,14 @@ System Design  █████▌░░░░
                 └─────────────┬─────────────┘
                               ▼
                     ┌──────────────────────┐
-                    │  Docker · CI / CD    │
+                    │   Docker · CI / CD   │
                     └──────────────────────┘
 ```
 
-</div>
-
-<!-- ═══════════════════════════ 06 EXPLORING ═══════════════════════════ -->
-## `06` &nbsp;·&nbsp; Systems I'm Exploring
+</details>
 
 <details>
-<summary><b>Distributed Systems · AI Systems · Production Engineering</b> — click to expand</summary>
+<summary><b>Systems I'm exploring</b> — Distributed · AI · Production</summary>
 <br/>
 
 | 🔀 Distributed Systems | 🤖 AI Systems | 🏭 Production Engineering |
@@ -213,29 +201,27 @@ System Design  █████▌░░░░
 | Caching strategies | RAG pipelines | API security |
 | Distributed locking | Embeddings | CI/CD |
 | Rate limiting | Vector databases | Docker |
-| Pub/Sub | Multimodal AI | Logging |
-| Redis Streams | AI agents | Metrics |
-| Lua scripting | Model evaluation | Monitoring |
-| Transactions | AI safety | Testing |
-| Clustering | AI observability | Performance |
-| Performance testing | Production inference | Scalability |
+| Pub/Sub · Redis Streams | Multimodal AI | Logging · Metrics |
+| Lua scripting | AI agents | Monitoring |
+| Transactions | Model evaluation · AI safety | Testing |
+| Clustering · Perf testing | AI observability · Inference | Performance · Scalability |
 
 </details>
 
 <details>
-<summary><b>Learning Path</b> — Java → Production AI Systems</summary>
+<summary><b>Learning path</b> — Java → Production AI Systems</summary>
 <br/>
 
 <div align="center">
 
-`Java` → `Spring Boot` → `REST API Engineering` → `Security + JWT` → `PostgreSQL + Hibernate` → `Redis` → `Docker` → `Distributed Systems` → `System Design` → `AI / ML` → `Production AI Systems`
+`Java` → `Spring Boot` → `REST APIs` → `Security + JWT` → `PostgreSQL + Hibernate` → `Redis` → `Docker` → `Distributed Systems` → `System Design` → `AI / ML` → `Production AI Systems`
 
 </div>
 
 </details>
 
 <details>
-<summary><b>10 Engineering Principles</b></summary>
+<summary><b>10 engineering principles</b></summary>
 <br/>
 
 | # | Principle | In practice |
@@ -253,15 +239,21 @@ System Design  █████▌░░░░
 
 </details>
 
-<!-- ═══════════════════════════ 07 STATS ═══════════════════════════ -->
-## `07` &nbsp;·&nbsp; GitHub Analytics
+<br/>
+
+<h2 align="left">📊 &nbsp;GitHub Analytics <sub><code>05</code></sub></h2>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,50:7C3AED,100:0F0C29&height=2&section=header" width="100%"/>
+
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SunilMaurya-18&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&bg_color=0F0C29" height="170" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunilMaurya-18&layout=compact&hide_border=true&theme=tokyonight&bg_color=0F0C29&langs_count=6" height="170" alt="Top languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SunilMaurya-18&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&bg_color=0F0C29" height="165" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunilMaurya-18&layout=compact&hide_border=true&theme=tokyonight&bg_color=0F0C29&langs_count=6" height="165" alt="Top languages"/>
 
-<img src="https://streak-stats.demolab.com/?user=SunilMaurya-18&hide_border=true&theme=tokyonight&background=0F0C29" height="170" alt="GitHub streak"/>
+<img src="https://streak-stats.demolab.com/?user=SunilMaurya-18&hide_border=true&theme=tokyonight&background=0F0C29" height="165" alt="GitHub streak"/>
+
+<img src="https://github-trophies.vercel.app/?username=SunilMaurya-18&theme=tokyonight&no-frame=true&no-bg=true&column=8&margin-w=6&rank=SECRET,S,AAA,AA,A,B,C" width="96%" alt="GitHub trophies"/>
 
 <img src="https://ghchart.rshah.org/7C3AED/SunilMaurya-18" width="96%" alt="Contribution chart"/>
 
@@ -273,34 +265,24 @@ System Design  █████▌░░░░
 
 </div>
 
-<!-- ═══════════════════════════ 08 PHILOSOPHY ═══════════════════════════ -->
-## `08` &nbsp;·&nbsp; Development Philosophy
+<br/>
+
+<h2 align="left">🤝 &nbsp;Let's Connect <sub><code>06</code></sub></h2>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,50:7C3AED,100:0F0C29&height=2&section=header" width="100%"/>
+
 
 <div align="center">
 
 **`BUILD`** &nbsp;→&nbsp; **`MEASURE`** &nbsp;→&nbsp; **`LEARN`** &nbsp;→&nbsp; **`IMPROVE`** &nbsp;↺
 
-<sub>Build systems that are understandable · Design systems that can evolve · Learn from every failure</sub>
-
-</div>
-
-<!-- ═══════════════════════════ 09 OPEN TO / CONNECT ═══════════════════════════ -->
-## `09` &nbsp;·&nbsp; Open To & Connect
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Backend_Engineering-24243E?style=flat-square"/> <img src="https://img.shields.io/badge/Java-24243E?style=flat-square"/> <img src="https://img.shields.io/badge/Spring_Boot-24243E?style=flat-square"/> <img src="https://img.shields.io/badge/Distributed_Systems-24243E?style=flat-square"/> <img src="https://img.shields.io/badge/AI_Engineering-24243E?style=flat-square"/> <img src="https://img.shields.io/badge/Open_Source-24243E?style=flat-square"/> <img src="https://img.shields.io/badge/Internships_%26_Freelance-302B63?style=flat-square"/>
+<sub>Open to backend internships, freelance projects, open source and AI engineering collaborations.</sub>
 
 <br/><br/>
 
-<a href="https://sunilmaurya-livid.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-302B63?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-<a href="https://github.com/SunilMaurya-18"><img src="https://img.shields.io/badge/GitHub-0F0C29?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://sunilmaurya-livid.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-302B63?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a> <a href="https://github.com/SunilMaurya-18"><img src="https://img.shields.io/badge/GitHub-0F0C29?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a> <a href="https://www.linkedin.com/in/sunil-maurya77"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B" alt="LinkedIn"/></a>
 
-<br/><br/>
-
-<code>ENGINEER • BUILD • LEARN • REPEAT</code>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=120&section=footer" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:302B63,100:0F0C29&height=130&section=footer" width="100%" alt="footer"/>
 
 </div>
+
