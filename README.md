@@ -1,24 +1,38 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:7C3AED&height=260&section=header&text=Sunil%20Maurya&fontSize=72&fontColor=F5F3FF&fontAlignY=38&desc=Java%20Backend%20Engineer%20%C2%B7%20Spring%20Boot%20%C2%B7%20Distributed%20Systems%20%C2%B7%20AI&descSize=17&descAlignY=60&animation=fadeIn" width="100%" alt="Sunil Maurya"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1A1A1A,100:3A3A3A&height=260&section=header&text=Sunil%20Maurya&fontSize=72&fontColor=FFFFFF&fontAlignY=38&desc=Java%20Backend%20Engineer%20%C2%B7%20Spring%20Boot%20%C2%B7%20Distributed%20Systems%20%C2%B7%20AI&descSize=17&descAlignY=60&animation=fadeIn" width="100%" alt="Sunil Maurya"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=2800&pause=800&color=A78BFA&center=true&vCenter=true&width=640&height=40&lines=Java+Backend+Engineer;Spring+Boot+%C2%B7+Redis+%C2%B7+PostgreSQL;Building+production-grade+APIs;Exploring+AI+Engineering" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=2800&pause=800&color=E5E5E5&center=true&vCenter=true&width=640&height=40&lines=Java+Backend+Engineer;Portfolio+%E2%86%92+sunilmaurya-18.in;Spring+Boot+%C2%B7+Redis+%C2%B7+PostgreSQL;Building+production-grade+APIs;Exploring+AI+Engineering" alt="Typing SVG"/>
 
 <br/>
 
-<a href="https://sunilmaurya-livid.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-302B63?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a> <a href="https://github.com/SunilMaurya-18"><img src="https://img.shields.io/badge/GitHub-0F0C29?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a> <a href="https://www.linkedin.com/in/sunil-maurya77"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B" alt="LinkedIn"/></a> <img src="https://komarev.com/ghpvc/?username=SunilMaurya-18&style=for-the-badge&color=302B63&label=PROFILE+VIEWS" alt="Profile views"/>
+<a href="https://sunilmaurya-18.in"><img src="https://img.shields.io/badge/sunilmaurya--18.in-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a> <a href="https://github.com/SunilMaurya-18"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a> <a href="https://www.linkedin.com/in/sunil-maurya77"><img src="https://img.shields.io/badge/LinkedIn-1A1A1A?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B" alt="LinkedIn"/></a> <img src="https://komarev.com/ghpvc/?username=SunilMaurya-18&style=for-the-badge&color=111111&label=PROFILE+VIEWS&labelColor=000000" alt="Profile views"/>
 
 <br/>
 
 <em>Building reliable backend systems and exploring the intersection of software engineering and AI.</em>
 
+<br/><br/>
+
+<table>
+<tr>
+<td align="center"><sub><b>FOCUS</b></sub><br/><code>Backend · APIs</code></td>
+<td align="center"><sub><b>STACK</b></sub><br/><code>Java · Spring Boot</code></td>
+<td align="center"><sub><b>EXPLORING</b></sub><br/><code>LLMs · RAG</code></td>
+<td align="center"><sub><b>BASED IN</b></sub><br/><code>Kanpur, India</code></td>
+<td align="center"><sub><b>STATUS</b></sub><br/><code>Open to work</code></td>
+</tr>
+</table>
+
+<a href="https://sunilmaurya-18.in"><b>sunilmaurya-18.in</b></a>
+
 </div>
 
 <br/>
 
-<h2 align="left">👨‍💻 &nbsp;About Me <sub><code>01</code></sub></h2>
+<h2 align="left">▍ About Me <sub><code>01</code></sub></h2>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,50:7C3AED,100:0F0C29&height=2&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:FFFFFF,100:000000&height=2&section=header" width="100%"/>
 
 
 ```java
@@ -45,12 +59,12 @@ public class SunilMaurya {
 
 **What I focus on**
 
-- ☕ **Java & Spring Boot** — clean REST API architecture
-- 🔐 **Spring Security & JWT** — auth by design
-- 🗄️ **PostgreSQL & JPA/Hibernate** — consistent data
-- ⚡ **Redis** — caching, streams, locks, rate limiting
-- 🐳 **Docker** — containerized delivery
-- 🧠 **AI/ML** — LLMs, RAG, production AI systems
+- ▪ **Java & Spring Boot** — clean REST API architecture
+- ▪ **Spring Security & JWT** — auth by design
+- ▪ **PostgreSQL & JPA/Hibernate** — consistent data
+- ▪ **Redis** — caching, streams, locks, rate limiting
+- ▪ **Docker** — containerized delivery
+- ▪ **AI/ML** — LLMs, RAG, production AI systems
 
 </td>
 <td width="45%" valign="top">
@@ -74,57 +88,57 @@ System Design  █████▌░░░░
 
 <br/>
 
-<h2 align="left">🚀 &nbsp;Featured Projects <sub><code>02</code></sub></h2>
+<h2 align="left">▍ Featured Projects <sub><code>02</code></sub></h2>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,50:7C3AED,100:0F0C29&height=2&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:FFFFFF,100:000000&height=2&section=header" width="100%"/>
 
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<h3>🔍&nbsp; SEOPulse</h3>
+<h3>◼&nbsp; SEOPulse</h3>
 
 <sub>SEO audit platform — scans websites and turns SEO issues into an actionable report dashboard.</sub>
 
-<img src="https://img.shields.io/badge/Java-24243E?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/> <img src="https://img.shields.io/badge/Spring_Boot-24243E?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot"/> <img src="https://img.shields.io/badge/PostgreSQL-24243E?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/> <img src="https://img.shields.io/badge/JPA-24243E?style=flat-square&logo=hibernate&logoColor=white" alt="JPA"/> <img src="https://img.shields.io/badge/Docker-24243E?style=flat-square&logo=docker&logoColor=white" alt="Docker"/> <img src="https://img.shields.io/badge/React-24243E?style=flat-square&logo=react&logoColor=white" alt="React"/>
+<img src="https://img.shields.io/badge/Java-1F1F1F?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/> <img src="https://img.shields.io/badge/Spring_Boot-1F1F1F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot"/> <img src="https://img.shields.io/badge/PostgreSQL-1F1F1F?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/> <img src="https://img.shields.io/badge/JPA-1F1F1F?style=flat-square&logo=hibernate&logoColor=white" alt="JPA"/> <img src="https://img.shields.io/badge/Docker-1F1F1F?style=flat-square&logo=docker&logoColor=white" alt="Docker"/> <img src="https://img.shields.io/badge/React-1F1F1F?style=flat-square&logo=react&logoColor=white" alt="React"/>
 
-<a href="https://seopulse-fr.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-302B63?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/></a>
+<a href="https://seopulse-fr.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/></a>
 
 </td>
 <td width="50%" valign="top">
 
-<h3>🌾&nbsp; PrithviCore</h3>
+<h3>◼&nbsp; PrithviCore</h3>
 
 <sub>Smart farming platform — real-time farm insights with live updates and AI-assisted crop vision.</sub>
 
-<img src="https://img.shields.io/badge/Next.js-24243E?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/> <img src="https://img.shields.io/badge/React-24243E?style=flat-square&logo=react&logoColor=white" alt="React"/> <img src="https://img.shields.io/badge/WebSockets-24243E?style=flat-square&logo=socketdotio&logoColor=white" alt="WebSockets"/> <img src="https://img.shields.io/badge/AI_Vision-24243E?style=flat-square&logo=opencv&logoColor=white" alt="AI Vision"/>
+<img src="https://img.shields.io/badge/Next.js-1F1F1F?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/> <img src="https://img.shields.io/badge/React-1F1F1F?style=flat-square&logo=react&logoColor=white" alt="React"/> <img src="https://img.shields.io/badge/WebSockets-1F1F1F?style=flat-square&logo=socketdotio&logoColor=white" alt="WebSockets"/> <img src="https://img.shields.io/badge/AI_Vision-1F1F1F?style=flat-square&logo=opencv&logoColor=white" alt="AI Vision"/>
 
-<a href="https://prithvicore.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-302B63?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/></a>
+<a href="https://prithvicore.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/></a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<h3>🛡️&nbsp; Forged Media Detection</h3>
+<h3>◼&nbsp; Forged Media Detection</h3>
 
 <sub>B.Tech project — EfficientNet-B0 forgery detection + explicit-content classifier, takedown deadlines, perceptual hashing and Ed25519-signed reports.</sub>
 
-<img src="https://img.shields.io/badge/Spring_Boot-24243E?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot"/> <img src="https://img.shields.io/badge/Python-24243E?style=flat-square&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/PostgreSQL-24243E?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/> <img src="https://img.shields.io/badge/Redis-24243E?style=flat-square&logo=redis&logoColor=white" alt="Redis"/> <img src="https://img.shields.io/badge/React-24243E?style=flat-square&logo=react&logoColor=white" alt="React"/>
+<img src="https://img.shields.io/badge/Spring_Boot-1F1F1F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot"/> <img src="https://img.shields.io/badge/Python-1F1F1F?style=flat-square&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/PostgreSQL-1F1F1F?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/> <img src="https://img.shields.io/badge/Redis-1F1F1F?style=flat-square&logo=redis&logoColor=white" alt="Redis"/> <img src="https://img.shields.io/badge/React-1F1F1F?style=flat-square&logo=react&logoColor=white" alt="React"/>
 
-<img src="https://img.shields.io/badge/Completed-24243E?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Completed"/>
+<img src="https://img.shields.io/badge/Completed-1F1F1F?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Completed"/>
 
 </td>
 <td width="50%" valign="top">
 
-<h3>🧑‍💻&nbsp; Personal Portfolio</h3>
+<h3>◼&nbsp; Personal Portfolio</h3>
 
-<sub>Developer portfolio — projects, skills and contact details in one place.</sub>
+<sub>Developer portfolio on a custom domain — projects, skills and contact details in one place.</sub>
 
-<img src="https://img.shields.io/badge/Web-24243E?style=flat-square" alt="Web"/> <img src="https://img.shields.io/badge/Vercel-24243E?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
+<img src="https://img.shields.io/badge/Web-1F1F1F?style=flat-square" alt="Web"/> <img src="https://img.shields.io/badge/sunilmaurya--18.in-1F1F1F?style=flat-square&logo=googlechrome&logoColor=white" alt="Domain"/> <img src="https://img.shields.io/badge/Vercel-1F1F1F?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
 
-<a href="https://sunilmaurya-livid.vercel.app/"><img src="https://img.shields.io/badge/Visit_Portfolio-302B63?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit Portfolio"/></a>
+<a href="https://sunilmaurya-18.in"><img src="https://img.shields.io/badge/Visit_Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit Portfolio"/></a>
 
 </td>
 </tr>
@@ -132,9 +146,9 @@ System Design  █████▌░░░░
 
 <br/>
 
-<h2 align="left">🛠️ &nbsp;Tech Stack <sub><code>03</code></sub></h2>
+<h2 align="left">▍ Tech Stack <sub><code>03</code></sub></h2>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,50:7C3AED,100:0F0C29&height=2&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:FFFFFF,100:000000&height=2&section=header" width="100%"/>
 
 
 <div align="center">
@@ -149,9 +163,9 @@ System Design  █████▌░░░░
 
 <br/>
 
-<h2 align="left">🏗️ &nbsp;How I Architect Backends <sub><code>04</code></sub></h2>
+<h2 align="left">▍ How I Architect Backends <sub><code>04</code></sub></h2>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,50:7C3AED,100:0F0C29&height=2&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:FFFFFF,100:000000&height=2&section=header" width="100%"/>
 
 <div align="center">
 
@@ -166,34 +180,34 @@ System Design  █████▌░░░░
 <th align="left">Stack</th>
 </tr>
 <tr>
-<td align="center" width="12%"><img src="https://img.shields.io/badge/L1-7C3AED?style=for-the-badge" alt="Layer 1"/></td>
+<td align="center" width="12%"><img src="https://img.shields.io/badge/L1-FFFFFF?style=for-the-badge&labelColor=000000" alt="Layer 1"/></td>
 <td width="44%"><b>Client</b><br/><sub>Web, mobile and API consumers talk to one consistent contract.</sub></td>
-<td width="44%"><img src="https://img.shields.io/badge/REST-24243E?style=flat-square&logo=openapiinitiative&logoColor=white" alt="REST"/> <img src="https://img.shields.io/badge/JSON-24243E?style=flat-square&logo=json&logoColor=white" alt="JSON"/> <img src="https://img.shields.io/badge/React-24243E?style=flat-square&logo=react&logoColor=white" alt="React"/></td>
+<td width="44%"><img src="https://img.shields.io/badge/REST-1F1F1F?style=flat-square&logo=openapiinitiative&logoColor=white" alt="REST"/> <img src="https://img.shields.io/badge/JSON-1F1F1F?style=flat-square&logo=json&logoColor=white" alt="JSON"/> <img src="https://img.shields.io/badge/React-1F1F1F?style=flat-square&logo=react&logoColor=white" alt="React"/></td>
 </tr>
 <tr>
-<td align="center" width="12%"><img src="https://img.shields.io/badge/L2-7C3AED?style=for-the-badge" alt="Layer 2"/></td>
+<td align="center" width="12%"><img src="https://img.shields.io/badge/L2-FFFFFF?style=for-the-badge&labelColor=000000" alt="Layer 2"/></td>
 <td width="44%"><b>API Gateway</b><br/><sub>Spring Boot controllers, validation and centralized exception handling.</sub></td>
-<td width="44%"><img src="https://img.shields.io/badge/Spring_Boot-24243E?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot"/> <img src="https://img.shields.io/badge/Validation-24243E?style=flat-square" alt="Validation"/> <img src="https://img.shields.io/badge/OpenAPI-24243E?style=flat-square&logo=swagger&logoColor=white" alt="OpenAPI"/></td>
+<td width="44%"><img src="https://img.shields.io/badge/Spring_Boot-1F1F1F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot"/> <img src="https://img.shields.io/badge/Validation-1F1F1F?style=flat-square" alt="Validation"/> <img src="https://img.shields.io/badge/OpenAPI-1F1F1F?style=flat-square&logo=swagger&logoColor=white" alt="OpenAPI"/></td>
 </tr>
 <tr>
-<td align="center" width="12%"><img src="https://img.shields.io/badge/L3-7C3AED?style=for-the-badge" alt="Layer 3"/></td>
+<td align="center" width="12%"><img src="https://img.shields.io/badge/L3-FFFFFF?style=for-the-badge&labelColor=000000" alt="Layer 3"/></td>
 <td width="44%"><b>Security</b><br/><sub>Stateless authentication and role-based authorization.</sub></td>
-<td width="44%"><img src="https://img.shields.io/badge/Spring_Security-24243E?style=flat-square&logo=springsecurity&logoColor=white" alt="Spring Security"/> <img src="https://img.shields.io/badge/JWT-24243E?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT"/></td>
+<td width="44%"><img src="https://img.shields.io/badge/Spring_Security-1F1F1F?style=flat-square&logo=springsecurity&logoColor=white" alt="Spring Security"/> <img src="https://img.shields.io/badge/JWT-1F1F1F?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT"/></td>
 </tr>
 <tr>
-<td align="center" width="12%"><img src="https://img.shields.io/badge/L4-7C3AED?style=for-the-badge" alt="Layer 4"/></td>
+<td align="center" width="12%"><img src="https://img.shields.io/badge/L4-FFFFFF?style=for-the-badge&labelColor=000000" alt="Layer 4"/></td>
 <td width="44%"><b>Services</b><br/><sub>Business logic, transactions and AI-powered features.</sub></td>
-<td width="44%"><img src="https://img.shields.io/badge/Java-24243E?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/> <img src="https://img.shields.io/badge/LLM_·_RAG-24243E?style=flat-square" alt="LLM · RAG"/> <img src="https://img.shields.io/badge/Python-24243E?style=flat-square&logo=python&logoColor=white" alt="Python"/></td>
+<td width="44%"><img src="https://img.shields.io/badge/Java-1F1F1F?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/> <img src="https://img.shields.io/badge/LLM_·_RAG-1F1F1F?style=flat-square" alt="LLM · RAG"/> <img src="https://img.shields.io/badge/Python-1F1F1F?style=flat-square&logo=python&logoColor=white" alt="Python"/></td>
 </tr>
 <tr>
-<td align="center" width="12%"><img src="https://img.shields.io/badge/L5-7C3AED?style=for-the-badge" alt="Layer 5"/></td>
+<td align="center" width="12%"><img src="https://img.shields.io/badge/L5-FFFFFF?style=for-the-badge&labelColor=000000" alt="Layer 5"/></td>
 <td width="44%"><b>Data</b><br/><sub>Durable storage plus fast caching, streams, locks and rate limits.</sub></td>
-<td width="44%"><img src="https://img.shields.io/badge/PostgreSQL-24243E?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/> <img src="https://img.shields.io/badge/Hibernate-24243E?style=flat-square&logo=hibernate&logoColor=white" alt="Hibernate"/> <img src="https://img.shields.io/badge/Redis-24243E?style=flat-square&logo=redis&logoColor=white" alt="Redis"/></td>
+<td width="44%"><img src="https://img.shields.io/badge/PostgreSQL-1F1F1F?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/> <img src="https://img.shields.io/badge/Hibernate-1F1F1F?style=flat-square&logo=hibernate&logoColor=white" alt="Hibernate"/> <img src="https://img.shields.io/badge/Redis-1F1F1F?style=flat-square&logo=redis&logoColor=white" alt="Redis"/></td>
 </tr>
 <tr>
-<td align="center" width="12%"><img src="https://img.shields.io/badge/L6-7C3AED?style=for-the-badge" alt="Layer 6"/></td>
+<td align="center" width="12%"><img src="https://img.shields.io/badge/L6-FFFFFF?style=for-the-badge&labelColor=000000" alt="Layer 6"/></td>
 <td width="44%"><b>Delivery</b><br/><sub>Containerized builds shipped through automated pipelines.</sub></td>
-<td width="44%"><img src="https://img.shields.io/badge/Docker-24243E?style=flat-square&logo=docker&logoColor=white" alt="Docker"/> <img src="https://img.shields.io/badge/GitHub_Actions-24243E?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions"/> <img src="https://img.shields.io/badge/Linux-24243E?style=flat-square&logo=linux&logoColor=white" alt="Linux"/></td>
+<td width="44%"><img src="https://img.shields.io/badge/Docker-1F1F1F?style=flat-square&logo=docker&logoColor=white" alt="Docker"/> <img src="https://img.shields.io/badge/GitHub_Actions-1F1F1F?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions"/> <img src="https://img.shields.io/badge/Linux-1F1F1F?style=flat-square&logo=linux&logoColor=white" alt="Linux"/></td>
 </tr>
 </table>
 
@@ -223,7 +237,7 @@ System Design  █████▌░░░░
 <summary><b>Systems I'm exploring</b> — Distributed · AI · Production</summary>
 <br/>
 
-| 🔀 Distributed Systems | 🤖 AI Systems | 🏭 Production Engineering |
+| ◼ Distributed Systems | ◼ AI Systems | ◼ Production Engineering |
 |:--|:--|:--|
 | Redis internals | LLM architecture | System design |
 | Caching strategies | RAG pipelines | API security |
@@ -269,20 +283,20 @@ System Design  █████▌░░░░
 
 <br/>
 
-<h2 align="left">📊 &nbsp;GitHub Analytics <sub><code>05</code></sub></h2>
+<h2 align="left">▍ GitHub Analytics <sub><code>05</code></sub></h2>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,50:7C3AED,100:0F0C29&height=2&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:FFFFFF,100:000000&height=2&section=header" width="100%"/>
 
 <table>
 <tr>
-<td width="50%" align="center" valign="middle"><img src="https://github-readme-stats.vercel.app/api?username=SunilMaurya-18&show_icons=true&rank_icon=github&card_width=450&hide_border=true&theme=tokyonight&bg_color=0F0C29" width="100%" alt="GitHub stats"/></td>
-<td width="50%" align="center" valign="middle"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunilMaurya-18&layout=compact&langs_count=8&card_width=450&hide_border=true&theme=tokyonight&bg_color=0F0C29" width="100%" alt="Top languages"/></td>
+<td width="50%" align="center" valign="middle"><img src="https://github-readme-stats.vercel.app/api?username=SunilMaurya-18&show_icons=true&rank_icon=github&card_width=450&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&text_color=C9C9C9&icon_color=FFFFFF&border_color=2B2B2B" width="100%" alt="GitHub stats"/></td>
+<td width="50%" align="center" valign="middle"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunilMaurya-18&layout=compact&langs_count=8&card_width=450&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&text_color=C9C9C9&icon_color=FFFFFF&border_color=2B2B2B" width="100%" alt="Top languages"/></td>
 </tr>
 <tr>
-<td colspan="2" align="center"><img src="https://streak-stats.demolab.com/?user=SunilMaurya-18&hide_border=true&theme=tokyonight&background=0F0C29" width="70%" alt="GitHub streak"/></td>
+<td colspan="2" align="center"><img src="https://streak-stats.demolab.com/?user=SunilMaurya-18&hide_border=true&background=0D0D0D&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=C9C9C9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8A8A8A&stroke=2B2B2B" width="70%" alt="GitHub streak"/></td>
 </tr>
 <tr>
-<td colspan="2" align="center"><sub><b>CONTRIBUTIONS · LAST 12 MONTHS</b></sub><br/><br/><img src="https://ghchart.rshah.org/7C3AED/SunilMaurya-18" width="100%" alt="Contribution chart"/></td>
+<td colspan="2" align="center"><sub><b>CONTRIBUTIONS · LAST 12 MONTHS</b></sub><br/><br/><img src="https://ghchart.rshah.org/404040/SunilMaurya-18" width="100%" alt="Contribution chart"/></td>
 </tr>
 </table>
 
@@ -298,9 +312,9 @@ System Design  █████▌░░░░
 
 <br/>
 
-<h2 align="left">🤝 &nbsp;Let's Connect <sub><code>06</code></sub></h2>
+<h2 align="left">▍ Let's Connect <sub><code>06</code></sub></h2>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,50:7C3AED,100:0F0C29&height=2&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:FFFFFF,100:000000&height=2&section=header" width="100%"/>
 
 
 <div align="center">
@@ -311,8 +325,8 @@ System Design  █████▌░░░░
 
 <br/><br/>
 
-<a href="https://sunilmaurya-livid.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-302B63?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a> <a href="https://github.com/SunilMaurya-18"><img src="https://img.shields.io/badge/GitHub-0F0C29?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a> <a href="https://www.linkedin.com/in/sunil-maurya77"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B" alt="LinkedIn"/></a>
+<a href="https://sunilmaurya-18.in"><img src="https://img.shields.io/badge/sunilmaurya--18.in-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a> <a href="https://github.com/SunilMaurya-18"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a> <a href="https://www.linkedin.com/in/sunil-maurya77"><img src="https://img.shields.io/badge/LinkedIn-1A1A1A?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B" alt="LinkedIn"/></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:302B63,100:0F0C29&height=130&section=footer" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3A3A3A,50:1A1A1A,100:000000&height=130&section=footer" width="100%" alt="footer"/>
 
 </div>
